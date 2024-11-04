@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ihasaini.github.io/KAE/sitemap_index.txt
+Sitemap: https://ihasaini.github.io/NHj/sitemap_index.txt
+Sitemap: https://ihasaini.github.io/TUZ/sitemap_index.txt
+Sitemap: https://ihasaini.github.io/qTa/sitemap_index.txt
